@@ -69,8 +69,10 @@ The application's UI follows a simple and intuitive design to enhance user exper
 Screenshots
 
 HomeScreen: Displaying the list of products.
-C:\Users\hp\Desktop\rn-assignment6-11135953\myapp\assets\Screenshot 1.png
+![Screenshot 1](https://github.com/davidboateng451/rn-assignment6-11135953/assets/151746606/50148423-8e90-4f6b-93f0-43b9f0d4b772)
+
 
 
 CartScreen: Displaying selected items in the cart.
-C:\Users\hp\Desktop\rn-assignment6-11135953\myapp\assets\Screenshot 2.png
+![Screenshot 2](https://github.com/davidboateng451/rn-assignment6-11135953/assets/151746606/1fe3167e-4388-4001-b291-db31be65bd79)
+
